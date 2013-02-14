@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    bacon (1.2.0)
+    nokogiri (1.5.6)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bacon
+  nokogiri
